@@ -1,5 +1,5 @@
 .body_backgorund {
-    background-image: url("bg1.jpg");
+    background-image: url("bg1.png");
     background-position: center;
     background-size: cover;
   }
@@ -8,13 +8,13 @@
   }
   h1
   {
-      color: darkcyan; 
-      font-size: 40px;
+      color: red; 
+      font-size: 20px;
   }
   #myCanvas
   {
       border-width:10px;
-      background-color: wheat; 
+      background-color: white; 
       border-style:ridge;
   }
 
